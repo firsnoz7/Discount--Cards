@@ -1,0 +1,11 @@
+C:\Users\vlad\Desktop\Project\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Desktop\Project\Shop\bin\Debug\Shop.dll
+C:\Users\vlad\Desktop\Project\Shop\bin\Debug\Shop.pdb
+C:\Users\vlad\Desktop\Project\Shop\obj\Debug\Shop.dll
+C:\Users\vlad\Desktop\Project\Shop\obj\Debug\Shop.pdb
+C:\Users\User\Desktop\vladkislenko-discount-cards-3b4c72c20145\Shop\bin\Debug\Shop.dll
+C:\Users\User\Desktop\vladkislenko-discount-cards-3b4c72c20145\Shop\bin\Debug\Shop.pdb
+C:\Users\User\Desktop\vladkislenko-discount-cards-3b4c72c20145\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\vladkislenko-discount-cards-3b4c72c20145\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vladkislenko-discount-cards-3b4c72c20145\Shop\obj\Debug\Shop.dll
+C:\Users\User\Desktop\vladkislenko-discount-cards-3b4c72c20145\Shop\obj\Debug\Shop.pdb
